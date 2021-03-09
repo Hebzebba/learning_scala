@@ -12,7 +12,6 @@ object Variables{
         myVar = "Yaw";
         println(myVar + " " + myVal );
 
-
         //multiple assignment
         val (myVar1,myVar2) = Pair(40,"Foo");
 
